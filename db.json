@@ -1,0 +1,54 @@
+{
+  "students": [
+    {
+      "id": "ffe7",
+      "name": "bek",
+      "hobby": "tennis"
+    },
+    {
+      "id": "d010",
+      "name": "a",
+      "hobby": "b"
+    },
+    {
+      "id": "98d5",
+      "name": "a",
+      "hobby": "c"
+    },
+    {
+      "id": "9d84",
+      "name": "g",
+      "hobby": "e"
+    },
+    {
+      "id": "af3c",
+      "name": "x",
+      "hobby": "z"
+    },
+    {
+      "requestId": "KaHs07G7wUNmv-M5fC85G",
+      "signal": {},
+      "id": "8509"
+    },
+    {
+      "id": "a26e",
+      "name": "a",
+      "hobby": "a"
+    },
+    {
+      "id": "4fc4",
+      "name": "a",
+      "hobby": "a"
+    },
+    {
+      "id": "5431",
+      "name": "d",
+      "hobby": "b"
+    },
+    {
+      "id": "4cac",
+      "name": "alo",
+      "hobby": "bek"
+    }
+  ]
+}
